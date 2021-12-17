@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\bin\Debug\file_operationschpt12.exe.config
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\bin\Debug\file_operationschpt12.exe
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\bin\Debug\file_operationschpt12.pdb
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\obj\Debug\file_operationschpt12.Form1.resources
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\obj\Debug\file_operationschpt12.Properties.Resources.resources
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\obj\Debug\file_operationschpt12.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\obj\Debug\file_operationschpt12.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\obj\Debug\file_operationschpt12.exe
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\obj\Debug\file_operationschpt12.pdb
+C:\Users\kevmm\source\repos\file_operationschpt12\file_operationschpt12\obj\Debug\file_operationschpt12.csproj.AssemblyReference.cache
